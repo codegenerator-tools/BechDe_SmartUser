@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">techathonUserExperience</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="bech_de">"BECH DE"</string>
+    <string name="home_screen_text">"READY TO SELL"</string>
+    <string name="counter_string">"You Are Just 2 Steps Away"</string>
+
+    <string-array name="cat">
+        <item>Windows</item>
+        <item>Cars</item>
+        <item>Electronics</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="sub_cat">
+        <item>Windows</item>
+        <item>Nokia</item>
+        <item>Blackberry</item>
+        <item>Android</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
